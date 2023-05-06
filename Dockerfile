@@ -1,4 +1,4 @@
-FROM ruby:2.2.0
+FROM ruby:2.2.0-slim
 MAINTAINER Manuel Garcia <manuel.garcia@altoros.com> / <mgarciap@gmail.com>
 
 RUN mkdir -p /usr/src/app
